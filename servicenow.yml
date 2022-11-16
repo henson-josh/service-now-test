@@ -1,8 +1,4 @@
 plugin: servicenow.itsm.now
 table: cmdb_ci_server
-instance:
-  host: https://dev125755.service-now.com/
-  username: admin
-  password: NOPE!
 query:
   - os_version:  = 8
